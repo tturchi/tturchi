@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tturchi
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning to code at 42 school
-- 💞️ I’m looking to collaborate on studies
+- 💞️ I’m looking to collaborate on web projects
 
 <!---
 tturchi/tturchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
